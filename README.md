@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bhupendrachouhan
-- 👀 I’m enjoy coding
+- 👀 I enjoy coding
 - 🌱 I’m currently learning AI, Cloud
 
 <!---
